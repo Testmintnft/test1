@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xc364f919de86055949307ce9304a9cfc7b70cfc9",
-  "SCAN_LINK": "https://etherscan.io/address/0xc364f919de86055949307ce9304a9cfc7b70cfc9",
+  "CONTRACT_ADDRESS": "0x4Aac8c133f47789e48ad452950a254157BF5A4Ed",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4aac8c133f47789e48ad452950a254157bf5a4ed",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Eth",
@@ -9,8 +9,8 @@
   "NFT_NAME": "The Kompilyator NFT",
   "SYMBOL": "TSNFT",
   "MAX_SUPPLY": 4444,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
