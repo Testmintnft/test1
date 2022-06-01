@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x4Aac8c133f47789e48ad452950a254157BF5A4Ed",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4aac8c133f47789e48ad452950a254157bf5a4ed",
+  "CONTRACT_ADDRESS": "0x7248394e2A2E68034020fb6292D677B0f50A21bf",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x7248394e2a2e68034020fb6292d677b0f50a21bf",
   "NETWORK": {
     "NAME": "ETH",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "The Kompilyator NFT",
-  "SYMBOL": "TSNFT",
+  "NFT_NAME": "Test GoblinClub",
+  "SYMBOL": "TGCLB",
   "MAX_SUPPLY": 4444,
   "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.001,
