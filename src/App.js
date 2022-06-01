@@ -230,7 +230,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              {CONFIG.MAX_SUPPLY} / {CONFIG.MAX_SUPPLY}
+              {976} / {CONFIG.MAX_SUPPLY}
             </s.TextTitle>
             <s.TextDescription
               style={{
